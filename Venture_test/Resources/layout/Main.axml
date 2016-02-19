@@ -36,4 +36,9 @@
             android:text="RadioButton"
             android:id="@+id/radioButton4" />
     </RadioGroup>
+    <ProgressBar
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="53.0dp"
+        android:id="@+id/progressBar1" />
 </LinearLayout>
